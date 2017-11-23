@@ -1,11 +1,10 @@
 language: ruby
 rvm:
-  - 2.4.0
+  - 2.4.2
 branches:
   only:
   - master
-before_script: mkdir ./_posts && cp -Rfv ./test/_posts/** ./_posts
-script: bundle exec jekyll build --config ./_config.demo.yml
+script: bundle exec jekyll serve
 deploy:
   provider: pages
   skip_cleanup: true
