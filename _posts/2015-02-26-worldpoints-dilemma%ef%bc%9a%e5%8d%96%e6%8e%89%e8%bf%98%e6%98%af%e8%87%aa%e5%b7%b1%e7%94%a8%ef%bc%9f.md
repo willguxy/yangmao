@@ -1,0 +1,50 @@
+---
+layout: post
+title: WorldPoints dilemma：卖掉还是自己用？
+#permalink: https://willguxy.wordpress.com/2015/02/26/worldpoints-dilemma：卖掉还是自己用？/index.html
+post_id: 132
+categories: 
+- Award Ticket
+- WorldPoints
+---
+
+如果你手上有神卡Fidelity Amex或者BOA的World Points card，那么你可能已经攒了一些WP 积分。那这个积分怎么花掉合适呢？
+
+
+**选择一：换statement credit**
+
+神卡之所以神是因为2% everywhere 无上限的回报率（其实是2 points/dollar）。每一个point可换1 cent，所以你手上的分数至少值1 cent。换成statement credit，简单粗暴。
+
+
+**选择二：二手版卖掉**
+
+
+大家都知道二手版常年有人收，汇率大概在1.1到1.2左右。曾几何时这个点数值1.6以上，那时候还可以1：1转加航里程。用里程订票很容易用出价值。那现在不能转里程了以后，WP点数还能值1.2么？反正有人收。卖掉比换credit值！
+
+在此提醒，mitbbs上也不是没有骗子的，二手买卖需谨慎。
+
+
+**选择三：用点数买机票**
+
+点开worldpoints兑换网站，是可以搜索机票的。只要你点数够，在买机票的时候可以任意使用，也可以一部分用点数一部分用cash。那么这样得到的价值跟直接兑换credit是一样的。网站上的机票价格也并不比别的地方贵。只不过算上你用cc订票可能得到的返现和里程，用WP点数订还有点小亏。
+
+不过好在WP点数在特定条件下可以以一定折扣订票。比如符合条件的美国国内航班可以用25k点数+30刀，订不超过400刀的机票。这样得到的价值最多是370/250 = 1.48。也是非常不错了。那么特定条件是什么呢？先看看美国国内经济舱。*至少提前21天订票
+
+	
+*必须是往返机票
+
+	
+*停留期间必须包含一个周六晚上
+
+	
+*stopover不能超过4小时
+
+	
+*必须是同一家航空公司的往返航班
+这些条件非常有意思。不过如果你能满足，那么把WP积分用的1.4以上也是很容易的，比卖掉好一点。另外还有其他目的地可以选择，美中机票85k点数+30刀可以兑换不超过1150刀的机票，点数价值在1.3左右。从美国出发的商务或头等舱，100k点数可以兑换不超过1500刀的机票，点数价值接近1.5。英文原版请参见下面PDF文件的第三页。
+
+
+**[官方PDF文件](https://www.managerewardsonline.bankofamerica.com/cms/published/root/rps/pdf/BACWPEng044461Nov2014.pdf)**
+
+
+顺便说一下，因为worldpoints是fidelity卡和BOA的卡共同的reward项目，如果你是BOA的Visa Signature的卡，美国国内经济舱可以换到470刀。这样WP点数的兑换价值可以达到惊人的430/250 = 1.72。
