@@ -54,7 +54,7 @@ author:
 
 ## Comment system (Disqus) ##
 disqus:
-  # shortname:  #the Disqus shortname for the site
+  shortname: yangmao #the Disqus shortname for the site
 
 ## Google Analytics ##
 # ga_tracking_id:  #Google analytics id for the site
