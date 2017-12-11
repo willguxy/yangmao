@@ -2,7 +2,7 @@
 layout: post
 title: Amex Offer Spreadsheet
 comment: true
-post_id: 10002
+key: 10002
 categories:
 - Uncategorized
 ---
@@ -15,6 +15,6 @@ categories:
 
 
 
-[1] https://goo.gl/ePpcVj
-[2] https://www.github.com/willguxy/autoamex
+[1]: https://goo.gl/ePpcVj
+[2]: https://www.github.com/willguxy/autoamex
 
