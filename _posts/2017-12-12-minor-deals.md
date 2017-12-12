@@ -2,7 +2,7 @@
 layout: post
 title: dunkin donuts小deal
 comment: true
-post_id: 10003
+key: 10003
 categories:
 - Uncategorized
 ---
