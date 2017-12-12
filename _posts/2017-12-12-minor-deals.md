@@ -15,5 +15,5 @@ DoC的[文章][1]里介绍了一个Dunkin Donuts的充值小deal，充10块送10
 
 
 
-[1] https://www.doctorofcredit.com/dunkin-donuts-get-10-bonus-10-reload/
+[1]: https://www.doctorofcredit.com/dunkin-donuts-get-10-bonus-10-reload/
 
