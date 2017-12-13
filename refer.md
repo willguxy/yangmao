@@ -12,7 +12,7 @@ key: page-refer
 **声明：**
 以下链接都是我个人的推荐链接，如果你点击以后注册或者申请信用卡成功，我将得到一点点小毛（sometimes比小毛好些）。我写文章纯粹是出于兴趣，并不为了盈利。我的个人观点是如果你有亲戚朋友可以推荐你，不如把好处留给你认识的人。如果你不太在乎或者暂时没有人推荐你，用我的链接相当于对本站的支持和对我个人的鼓励，我会非常感激。
 
-
+- [墙裂推荐：Robinhood股票账户，不收交易费，最近要推出期权交易和web版][robinhood]
 - [亚马逊学生会员（免费6个月的prime membership），需要用edu邮箱注册][amazon]
 - [出门在外，注册个Airbnb吧？驴行很省钱][airbnb]
 - [喝星巴克怎么能不用app积累小星星呢？你可以得到免费一杯任何类型size的饮品][starbucks]
@@ -27,7 +27,7 @@ key: page-refer
 - [返利网站simply best coupon。在giftcards.com买买VGC不错][simplybest]
 - [返利网站Go Cashback][gocashback]
 
-
+[robinhood]: http://share.robinhood.com/xiangyg1
 [amazon]: http://www.amazon.com/gp/student/signup/info?ie=UTF8&refcust=FD24CDKIV4V2XKL4MOCY6R5HBM&ref_type=generic
 [airbnb]: http://www.airbnb.com/c/xgu228?s=8
 [starbucks]: http://refer.starbucks.com/v2/share/6149172321054435805/77696c6c6775407961686f6f2e636f6d
