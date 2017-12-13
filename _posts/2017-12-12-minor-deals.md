@@ -2,9 +2,8 @@
 layout: post
 title: dunkin donuts小deal
 comment: true
-key: 10003
-categories:
-- Uncategorized
+key: 20171212
+tags: deal AMEX
 ---
 
 DoC的[文章][1]里介绍了一个Dunkin Donuts的充值小deal，充10块送10块。结合AMEX最近的offer（targeted），充10块返5块，算下来是充5块得到20块的GC，相当于2.5折喝咖啡吃croissant。卡多的话也可以稍微resell一下，注意电子卡不太好卖。即使是自用，这个deal也非常不错了。

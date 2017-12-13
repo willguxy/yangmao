@@ -2,9 +2,8 @@
 layout: post
 title: Amex Offer Spreadsheet
 comment: true
-key: 10002
-categories:
-- Uncategorized
+key: 20171210
+tags: AMEX tool
 ---
 
 分享一个自己总结的[Amex Offer列表][1]
