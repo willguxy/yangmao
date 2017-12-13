@@ -61,9 +61,9 @@ disqus:
 
 ## Reading quantity (LeanCloud) ##
 leancloud:
-  # app_id:  #LeanCloud App id
-  # app_key:  #LeanCloud App key
-  # app_class:  #LeanCloud App class
+  app_id: PaSE2Hy78fpb2X8RYeOW9ywP-gzGzoHsz #LeanCloud App id
+  app_key: blUaq8czTifyTetatjXIloin #LeanCloud App key
+  app_class: counter #LeanCloud App class
 
 # mathjax: true
 
