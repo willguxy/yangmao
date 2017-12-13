@@ -15,17 +15,17 @@ key: page-refer
 
 - [亚马逊学生会员（免费6个月的prime membership），需要用edu邮箱注册][amazon]
 - [出门在外，注册个Airbnb吧？驴行很省钱][airbnb]
-- [喝星巴克怎么能不用app积累小星星呢？还没有的话可以用我的链接注册，你得到免费一杯任何类型size的饮品][starbucks]
+- [喝星巴克怎么能不用app积累小星星呢？你可以得到免费一杯任何类型size的饮品][starbucks]
 - [购物用portal，注册个ebates怎么样？][ebates]
 - [既然用portal，或者来个Topcashback？][topcashback]
 - [Mr Rebates也不错，另外一个portal。至于哪家好，请上Cashback Monitor][mrrebates]
-- [NetSpend开户获得20刀][netspend]
-- [Brinks开户获得20刀（跟上面那个只能选其一，两个都申请的话，第二个要用公共链接）][brinks]
-- [Carpool注册账户得5刀][cardpool]
-- [Befrugal，很不错的返利网站。现在注册获得10刀奖励][befrugal]
-- [Giving Assistant。之前推荐过多次，注册获得5刀奖励][givingass]
-- [simply best coupon。在giftcards.com买买VGC不错][simplybest]
-- [Go Cashback][gocashback]
+- [Prepaid账户NetSpend开户获得20刀][netspend]
+- [Prepaid账户Brinks开户获得20刀（跟上面那个只能选其一，两个都申请的话，第二个要用公共链接）][brinks]
+- [二手礼品卡买卖网站Carpool注册账户得5刀][cardpool]
+- [返利网站Befrugal，很不错的返利网站。现在注册获得10刀奖励][befrugal]
+- [返利网站Giving Assistant。之前推荐过多次，注册获得5刀奖励][givingass]
+- [返利网站simply best coupon。在giftcards.com买买VGC不错][simplybest]
+- [返利网站Go Cashback][gocashback]
 
 
 [amazon]: http://www.amazon.com/gp/student/signup/info?ie=UTF8&refcust=FD24CDKIV4V2XKL4MOCY6R5HBM&ref_type=generic
