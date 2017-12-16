@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 东京Regus Lounge体验以及订Virgin Atlantic里程票的教训
+comment: true
 key: 20150514
 tags:
 - Award Ticket

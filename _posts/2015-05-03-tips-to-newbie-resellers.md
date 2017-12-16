@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tips to newbie resellers
+comment: true
 key: 20150503.1
 tags:
 - miscellaneous

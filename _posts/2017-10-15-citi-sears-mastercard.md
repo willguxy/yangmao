@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Citi Sears Mastercard
+comment: true
 key: 20171015
 tags: Citi Sears CreditCard
 ---

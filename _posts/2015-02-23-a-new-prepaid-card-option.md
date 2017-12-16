@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A "new" prepaid card option
+comment: true
 key: 20150223
 tags:
 - MS

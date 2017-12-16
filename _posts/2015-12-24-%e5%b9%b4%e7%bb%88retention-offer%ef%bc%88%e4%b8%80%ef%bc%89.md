@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 年终retention offer（一）
+comment: true
 key: 20151224
 tags:
 - retention

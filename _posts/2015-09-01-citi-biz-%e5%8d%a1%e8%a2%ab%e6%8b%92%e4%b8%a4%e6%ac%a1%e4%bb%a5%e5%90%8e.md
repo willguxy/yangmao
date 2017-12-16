@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Citi Biz 卡被拒两次以后……
+comment: true
 key: 20150901
 tags:
 - AA

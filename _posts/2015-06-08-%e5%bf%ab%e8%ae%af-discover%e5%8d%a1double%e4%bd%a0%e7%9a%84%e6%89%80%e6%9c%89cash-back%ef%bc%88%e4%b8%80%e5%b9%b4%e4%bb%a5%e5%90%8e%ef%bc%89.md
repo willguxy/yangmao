@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ［快讯］Discover卡double你的所有cash back（一年以后）
+comment: true
 key: 20150608
 tags:
 - cash back

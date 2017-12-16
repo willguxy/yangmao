@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 如何建立mitbbs的RSS feed
+comment: true
 key: 20160110
 tags:
 - miscellaneous

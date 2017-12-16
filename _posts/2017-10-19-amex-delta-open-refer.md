@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AMEX Delta最新开卡+推荐奖励活动
+comment: true
 key: 20171019
 tags: Delta AMEX CreditCard
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: checking账户小羊毛一只
+comment: true
 key: 20150418
 tags:
 - BOA

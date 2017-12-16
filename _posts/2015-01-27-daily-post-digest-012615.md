@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Daily post digest (01/26/15)
+comment: true
 key: 20150127
 tags:
 - credit card

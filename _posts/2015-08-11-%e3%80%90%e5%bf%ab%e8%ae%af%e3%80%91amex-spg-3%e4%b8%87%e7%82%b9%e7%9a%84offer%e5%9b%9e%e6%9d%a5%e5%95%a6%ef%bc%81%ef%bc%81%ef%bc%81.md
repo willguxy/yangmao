@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 【快讯】Amex SPG 3万点的offer回来啦！！！
+comment: true
 key: 20150811
 tags:
 - amex

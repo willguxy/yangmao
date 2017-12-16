@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Paypal My Cash experiment succeeded...
+comment: true
 key: 20141228
 tags:
 - Paypal

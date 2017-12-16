@@ -1,6 +1,7 @@
 ---
 layout: post
 title: cash back portals and gift card purchase
+comment: true
 key: 20150420
 tags:
 - cash back

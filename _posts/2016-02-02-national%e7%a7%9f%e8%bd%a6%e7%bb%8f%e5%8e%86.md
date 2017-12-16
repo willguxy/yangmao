@@ -1,6 +1,7 @@
 ---
 layout: post
 title: National租车经历
+comment: true
 key: 20160202
 tags:
 - car rental

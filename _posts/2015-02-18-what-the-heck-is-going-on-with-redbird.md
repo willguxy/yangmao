@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What the heck is going on with Redbird?
+comment: true
 key: 20150218
 tags:
 - credit card

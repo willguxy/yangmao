@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 再次推荐giving assistant
+comment: true
 key: 20151017
 tags:
 - givingassistant

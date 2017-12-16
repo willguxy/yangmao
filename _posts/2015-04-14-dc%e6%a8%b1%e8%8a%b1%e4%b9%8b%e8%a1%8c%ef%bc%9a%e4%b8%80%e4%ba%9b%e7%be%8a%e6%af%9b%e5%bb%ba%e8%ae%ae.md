@@ -1,6 +1,7 @@
 ---
 layout: post
 title: DC樱花之行：一些羊毛建议
+comment: true
 key: 20150414
 tags:
 - travel

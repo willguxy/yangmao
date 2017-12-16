@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 说说Amex的小羊毛
+comment: true
 key: 20161204
 tags:
 ---

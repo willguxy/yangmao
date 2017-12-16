@@ -1,6 +1,7 @@
 ---
 layout: post
 title: WorldPoints dilemma：卖掉还是自己用？
+comment: true
 key: 20150226
 tags:
 - Award Ticket

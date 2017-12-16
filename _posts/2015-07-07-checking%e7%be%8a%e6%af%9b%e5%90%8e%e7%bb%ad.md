@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Checking羊毛后续
+comment: true
 key: 20150707
 tags:
 - checking

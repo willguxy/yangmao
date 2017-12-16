@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 如何选择deal？哪些该跳，哪些不该？
+comment: true
 key: 20150730
 tags:
 - amex

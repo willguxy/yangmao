@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 利用GiftCardMall（Simon VGC）+Topcashback满足开卡消费
+comment: true
 key: 20150729.1
 tags:
 - credit card

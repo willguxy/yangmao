@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 如何得到便宜又高端的租车享受？
+comment: true
 key: 20150508
 tags:
 - car rental

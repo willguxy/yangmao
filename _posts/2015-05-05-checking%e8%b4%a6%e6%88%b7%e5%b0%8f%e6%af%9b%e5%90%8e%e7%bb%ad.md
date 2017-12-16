@@ -1,6 +1,7 @@
 ---
 layout: post
 title: checking账户小毛后续
+comment: true
 key: 20150505
 tags:
 - checking

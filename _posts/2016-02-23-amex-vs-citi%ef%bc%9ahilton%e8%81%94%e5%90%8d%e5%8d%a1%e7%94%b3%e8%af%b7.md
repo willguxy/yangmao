@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Amex vs Citi：Hilton联名卡申请
+comment: true
 key: 20160223
 tags:
 - amex
