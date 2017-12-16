@@ -1,9 +1,8 @@
 ---
 layout: post
 title: A "new" prepaid card option
-#permalink: https://willguxy.wordpress.com/2015/02/23/a-new-prepaid-card-option/index.html
-post_id: 127
-categories: 
+key: 20150223
+tags:
 - MS
 ---
 

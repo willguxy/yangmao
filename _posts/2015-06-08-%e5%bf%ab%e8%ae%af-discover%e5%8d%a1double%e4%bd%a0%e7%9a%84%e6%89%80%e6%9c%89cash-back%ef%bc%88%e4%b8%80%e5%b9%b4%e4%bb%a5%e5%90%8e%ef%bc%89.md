@@ -1,9 +1,8 @@
 ---
 layout: post
 title: ［快讯］Discover卡double你的所有cash back（一年以后）
-#permalink: https://willguxy.wordpress.com/2015/06/08/快讯-discover卡double你的所有cash-back（一年以后）/index.html
-post_id: 218
-categories: 
+key: 20150608
+tags:
 - cash back
 - Discover
 ---

@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Time to know what banks think of us
-#permalink: https://willguxy.wordpress.com/2016/05/17/time-to-know-what-banks-think-of-us/index.html
-post_id: 1943
-categories: 
-- Uncategorized
+key: 20160517
+tags:
 ---
 
 I came across DOC's posts of 

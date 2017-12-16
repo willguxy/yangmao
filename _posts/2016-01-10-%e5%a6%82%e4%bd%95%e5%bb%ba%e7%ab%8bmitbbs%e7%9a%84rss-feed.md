@@ -1,11 +1,9 @@
 ---
 layout: post
 title: 如何建立mitbbs的RSS feed
-#permalink: https://willguxy.wordpress.com/2016/01/10/如何建立mitbbs的rss-feed/index.html
-post_id: 792
-categories: 
+key: 20160110
+tags:
 - miscellaneous
-- Uncategorized
 ---
 
 大家在买买提二手版经常买卖东西的话，可能会想第一时间知道市场上某个产品在待售或者求购，以及价格是多少。所以在这里我给大家提供一个小trick，可以收到新帖（其实是顶帖）的通知，并且可以过滤关键词。

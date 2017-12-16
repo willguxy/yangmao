@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 如何max out freedom和discover的quarterly 5%返现
-#permalink: https://willguxy.wordpress.com/2015/02/14/如何max-out-freedom和discover的quarterly-5返现/index.html
-post_id: 102
-categories: 
+key: 20150214.1
+tags:
 - cash back
 - credit card
 ---

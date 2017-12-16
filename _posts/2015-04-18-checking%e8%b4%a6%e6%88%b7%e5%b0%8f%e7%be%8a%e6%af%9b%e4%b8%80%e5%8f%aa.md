@@ -1,9 +1,8 @@
 ---
 layout: post
 title: checking账户小羊毛一只
-#permalink: https://willguxy.wordpress.com/2015/04/18/checking账户小羊毛一只/index.html
-post_id: 170
-categories: 
+key: 20150418
+tags:
 - BOA
 - checking
 ---

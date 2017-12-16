@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 【快讯】Amex SPG 3万点的offer回来啦！！！
-#permalink: https://willguxy.wordpress.com/2015/08/11/【快讯】amex-spg-3万点的offer回来啦！！！/index.html
-post_id: 319
-categories: 
+key: 20150811
+tags:
 - amex
 - Amex
 - spg

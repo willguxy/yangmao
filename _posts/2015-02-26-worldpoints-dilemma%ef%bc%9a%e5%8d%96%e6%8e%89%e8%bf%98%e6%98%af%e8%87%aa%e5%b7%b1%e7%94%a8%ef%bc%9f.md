@@ -1,9 +1,8 @@
 ---
 layout: post
 title: WorldPoints dilemma：卖掉还是自己用？
-#permalink: https://willguxy.wordpress.com/2015/02/26/worldpoints-dilemma：卖掉还是自己用？/index.html
-post_id: 132
-categories: 
+key: 20150226
+tags:
 - Award Ticket
 - WorldPoints
 ---

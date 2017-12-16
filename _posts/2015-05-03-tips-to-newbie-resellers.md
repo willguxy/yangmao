@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Tips to newbie resellers
-#permalink: https://willguxy.wordpress.com/2015/05/03/tips-to-newbie-resellers/index.html
-post_id: 192
-categories: 
+key: 20150503.1
+tags:
 - miscellaneous
 ---
 

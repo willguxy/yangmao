@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 浅谈AMEX Rules
-#permalink: https://willguxy.wordpress.com/2017/04/03/amex-rules-explained/index.html
-post_id: 2822
-categories: 
-- Uncategorized
+key: 20170403
+tags:
 ---
 
 今天来总结一些关于AMEX卡申请和持卡规则，以及一些例外。

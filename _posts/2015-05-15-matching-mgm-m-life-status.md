@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Matching MGM M-life status
-#permalink: https://willguxy.wordpress.com/2015/05/15/matching-mgm-m-life-status/index.html
-post_id: 215
-categories: 
+key: 20150515
+tags:
 - Hyatt
 - travel
 ---

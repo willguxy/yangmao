@@ -1,9 +1,8 @@
 ---
 layout: post
 title: checking账户小毛后续
-#permalink: https://willguxy.wordpress.com/2015/05/05/checking账户小毛后续/index.html
-post_id: 196
-categories: 
+key: 20150505
+tags:
 - checking
 ---
 

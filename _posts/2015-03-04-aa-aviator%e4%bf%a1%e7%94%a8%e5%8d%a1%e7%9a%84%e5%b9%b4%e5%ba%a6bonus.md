@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 巴克莱AA Aviator信用卡的种种
-#permalink: https://willguxy.wordpress.com/2015/03/04/aa-aviator信用卡的年度bonus/index.html
-post_id: 146
-categories: 
+key: 20150304
+tags:
 - credit card
 ---
 

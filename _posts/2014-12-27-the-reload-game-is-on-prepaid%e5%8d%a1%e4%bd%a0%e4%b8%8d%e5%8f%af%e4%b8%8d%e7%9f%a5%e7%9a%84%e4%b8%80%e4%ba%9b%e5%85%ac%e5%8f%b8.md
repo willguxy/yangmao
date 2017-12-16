@@ -1,9 +1,8 @@
 ---
 layout: post
 title: The reload game is on——prepaid卡你不可不知的一些公司
-#permalink: https://willguxy.wordpress.com/2014/12/27/the-reload-game-is-on-prepaid卡你不可不知的一些公司/index.html
-post_id: 27
-categories: 
+key: 20141227.4
+tags:
 - prepaid card
 - reloadable card
 ---

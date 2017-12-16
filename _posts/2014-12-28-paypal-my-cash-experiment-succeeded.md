@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Paypal My Cash experiment succeeded...
-#permalink: https://willguxy.wordpress.com/2014/12/28/paypal-my-cash-experiment-succeeded/index.html
-post_id: 43
-categories: 
+key: 20141228
+tags:
 - Paypal
 - Walgreens
 ---

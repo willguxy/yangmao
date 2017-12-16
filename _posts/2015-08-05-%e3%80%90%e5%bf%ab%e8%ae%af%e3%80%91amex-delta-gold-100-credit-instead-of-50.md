@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 【快讯】Amex Delta Gold $100 credit instead of $50
-#permalink: https://willguxy.wordpress.com/2015/08/05/【快讯】amex-delta-gold-100-credit-instead-of-50/index.html
-post_id: 292
-categories: 
+key: 20150805.1
+tags:
 - amex
 - Amex
 - delta

@@ -1,9 +1,8 @@
 ---
 layout: post
 title: A much better way to automate tweeting Amex Offer
-#permalink: https://willguxy.wordpress.com/2015/08/01/a-much-better-way-to-automate-tweeting-amex-offer/index.html
-post_id: 288
-categories: 
+key: 20150801
+tags:
 - amex
 - Amex
 - amex offer

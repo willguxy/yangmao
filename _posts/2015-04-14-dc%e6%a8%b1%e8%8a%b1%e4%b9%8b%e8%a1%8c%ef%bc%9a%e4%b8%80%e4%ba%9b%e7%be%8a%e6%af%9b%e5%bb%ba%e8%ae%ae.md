@@ -1,9 +1,8 @@
 ---
 layout: post
 title: DC樱花之行：一些羊毛建议
-#permalink: https://willguxy.wordpress.com/2015/04/14/dc樱花之行：一些羊毛建议/index.html
-post_id: 166
-categories: 
+key: 20150414
+tags:
 - travel
 ---
 

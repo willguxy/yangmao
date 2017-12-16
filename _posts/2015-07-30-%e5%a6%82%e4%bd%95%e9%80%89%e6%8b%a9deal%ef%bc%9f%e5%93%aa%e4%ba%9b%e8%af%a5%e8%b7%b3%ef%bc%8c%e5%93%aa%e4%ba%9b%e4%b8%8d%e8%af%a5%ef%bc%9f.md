@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 如何选择deal？哪些该跳，哪些不该？
-#permalink: https://willguxy.wordpress.com/2015/07/30/如何选择deal？哪些该跳，哪些不该？/index.html
-post_id: 264
-categories: 
+key: 20150730
+tags:
 - amex
 - Amex
 - amex offer

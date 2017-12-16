@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Checking羊毛后续
-#permalink: https://willguxy.wordpress.com/2015/07/07/checking羊毛后续/index.html
-post_id: 232
-categories: 
+key: 20150707
+tags:
 - checking
 ---
 

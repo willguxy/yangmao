@@ -1,12 +1,10 @@
 ---
 layout: post
 title: 年终retention offer（一）
-#permalink: https://willguxy.wordpress.com/2015/12/24/年终retention-offer（一）/index.html
-post_id: 699
-categories: 
+key: 20151224
+tags:
 - retention
 - retention offer
-- Uncategorized
 ---
 
 ##圣诞快乐!!! 祝各位读者有一个愉快的假期

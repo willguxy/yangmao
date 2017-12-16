@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 利用GiftCardMall（Simon VGC）+Topcashback满足开卡消费
-#permalink: https://willguxy.wordpress.com/2015/07/29/利用giftcardmall（simon-vgc）topcashback满足开卡消费/index.html
-post_id: 254
-categories: 
+key: 20150729.1
+tags:
 - credit card
 - giftcardmall
 - topcashback

@@ -1,9 +1,8 @@
 ---
 layout: post
 title: cash back portals and gift card purchase
-#permalink: https://willguxy.wordpress.com/2015/04/20/cash-back-portals-and-gift-card-purchase/index.html
-post_id: 181
-categories: 
+key: 20150420
+tags:
 - cash back
 - gift card
 ---

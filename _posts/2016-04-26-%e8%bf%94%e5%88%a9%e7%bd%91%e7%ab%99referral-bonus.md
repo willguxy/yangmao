@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 返利网站referral bonus
-#permalink: https://willguxy.wordpress.com/2016/04/26/返利网站referral-bonus/index.html
-post_id: 1894
-categories: 
-- Uncategorized
+key: 20160426
+tags:
 ---
 
 最近有几个返利网站提供额外的bonus：

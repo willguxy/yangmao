@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 再次推荐giving assistant
-#permalink: https://willguxy.wordpress.com/2015/10/17/再次推荐giving-assistant/index.html
-post_id: 384
-categories: 
+key: 20151017
+tags:
 - givingassistant
 - topcashback
 ---

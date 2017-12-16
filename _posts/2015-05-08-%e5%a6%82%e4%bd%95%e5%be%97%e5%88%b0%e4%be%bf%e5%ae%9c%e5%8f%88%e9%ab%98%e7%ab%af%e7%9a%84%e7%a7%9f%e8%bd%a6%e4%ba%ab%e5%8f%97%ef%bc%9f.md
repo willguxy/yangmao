@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 如何得到便宜又高端的租车享受？
-#permalink: https://willguxy.wordpress.com/2015/05/08/如何得到便宜又高端的租车享受？/index.html
-post_id: 202
-categories: 
+key: 20150508
+tags:
 - car rental
 - travel
 ---

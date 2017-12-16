@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 东京Regus Lounge体验以及订Virgin Atlantic里程票的教训
-#permalink: https://willguxy.wordpress.com/2015/05/14/东京regus-lounge体验以及订virgin-atlantic里程票的教训/index.html
-post_id: 210
-categories: 
+key: 20150514
+tags:
 - Award Ticket
 - travel
 ---

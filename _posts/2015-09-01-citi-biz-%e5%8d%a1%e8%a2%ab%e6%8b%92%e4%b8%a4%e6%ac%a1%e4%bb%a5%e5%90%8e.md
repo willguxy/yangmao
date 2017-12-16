@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Citi Biz 卡被拒两次以后……
-#permalink: https://willguxy.wordpress.com/2015/09/01/citi-biz-卡被拒两次以后/index.html
-post_id: 337
-categories: 
+key: 20150901
+tags:
 - AA
 - Citibank
 ---

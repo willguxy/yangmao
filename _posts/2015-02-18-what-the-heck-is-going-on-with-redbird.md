@@ -1,9 +1,8 @@
 ---
 layout: post
 title: What the heck is going on with Redbird?
-#permalink: https://willguxy.wordpress.com/2015/02/18/what-the-heck-is-going-on-with-redbird/index.html
-post_id: 112
-categories: 
+key: 20150218
+tags:
 - credit card
 - MS
 ---

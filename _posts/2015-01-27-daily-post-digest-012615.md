@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Daily post digest (01/26/15)
-#permalink: https://willguxy.wordpress.com/2015/01/27/daily-post-digest-012615/index.html
-post_id: 76
-categories: 
+key: 20150127
+tags:
 - credit card
 - digest
 ---

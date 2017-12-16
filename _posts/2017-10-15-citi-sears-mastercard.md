@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Citi Sears Mastercard
-#permalink: https://willguxy.wordpress.com/2017/10/15/citi-sears-mastercard/index.html
-post_id: 3406
-categories: 
-- Uncategorized
+key: 20171015
+tags: Citi Sears CreditCard
 ---
 
 好久没写东西了，今天来写一张神奇的卡。Citi Sears Mastercard

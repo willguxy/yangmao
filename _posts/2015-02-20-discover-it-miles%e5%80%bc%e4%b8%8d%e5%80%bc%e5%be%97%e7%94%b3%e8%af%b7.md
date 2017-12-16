@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Discover IT Miles值不值得申请
-#permalink: https://willguxy.wordpress.com/2015/02/20/discover-it-miles值不值得申请/index.html
-post_id: 118
-categories: 
+key: 20150220
+tags:
 - credit card
 ---
 

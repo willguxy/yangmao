@@ -1,11 +1,9 @@
 ---
 layout: post
 title: National租车经历
-#permalink: https://willguxy.wordpress.com/2016/02/02/national租车经历/index.html
-post_id: 940
-categories: 
+key: 20160202
+tags:
 - car rental
-- Uncategorized
 ---
 
 上周末搬家。算了一下，请朋友帮忙开车和搬东西，回头再请人家吃饭，跟我自己租个车花费差不多，而且又不好意思一趟一趟的老用人家，索性自己来吧。另外正好还要搬床垫，所以需要一个大点的车。网上研究了一下，又在priceline上bid了几次mid-size SUV，都没有找到合适的低价。无奈之下给National打电话，说明自己是Executive的会员，希望客服能够给我报一个低点的价格。

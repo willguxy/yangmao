@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 说说Amex的小羊毛
-#permalink: https://willguxy.wordpress.com/2016/12/04/说说amex的小羊毛/index.html
-post_id: 2520
-categories: 
-- Uncategorized
+key: 20161204
+tags:
 ---
 
 今天简单说几个Amex的小羊毛，以及薅的思路吧，包括已经过期的和还在进行的。*AT&T bill $50 back after $150, up to 3X

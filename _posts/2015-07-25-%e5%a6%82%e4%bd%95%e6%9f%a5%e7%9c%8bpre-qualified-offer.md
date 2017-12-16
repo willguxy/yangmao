@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 如何查看pre-qualified offer
-#permalink: https://willguxy.wordpress.com/2015/07/25/如何查看pre-qualified-offer/index.html
-post_id: 243
-categories: 
+key: 20150725
+tags:
 - credit card
 - pre-qualified offers
 ---

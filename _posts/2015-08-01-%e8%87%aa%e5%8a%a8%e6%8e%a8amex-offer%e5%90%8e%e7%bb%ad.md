@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 自动推Amex Offer后续
-#permalink: https://willguxy.wordpress.com/2015/08/01/自动推amex-offer后续/index.html
-post_id: 280
-categories: 
+key: 20150801.1
+tags:
 - amex
 - Amex
 - amex offer
