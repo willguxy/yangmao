@@ -3,9 +3,7 @@ layout: post
 title: Daily post digest (01/26/15)
 comment: true
 key: 20150127
-tags:
-- credit card
-- digest
+tags: CreditCard digest
 ---
 
 从今天开始写这样一个总结性质的系列文章，主要是摘要各个著名博客在这几天发的一些有意思的东西。所以内容不属于原创，如果你订阅了知名的几个博客，而且英文还不错，看原文就挺好。

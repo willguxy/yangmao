@@ -3,8 +3,7 @@ layout: post
 title: 巴克莱AA Aviator信用卡的种种
 comment: true
 key: 20150304
-tags:
-- credit card
+tags: CreditCard
 ---
 
 首先感谢DOC在twitter上询问了巴克莱的客服。由于美航和全美的合并，US Airways信用卡将在今年第二季度被AA Aviator替代。以前流传的Red和Silver两个版本最终被扩展成了四个版本，由高端到平民分别是：Silver、Red、Blue以及Aviator。

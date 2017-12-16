@@ -3,8 +3,7 @@ layout: post
 title: Checking羊毛后续
 comment: true
 key: 20150707
-tags:
-- checking
+tags: checking
 ---
 
 之前提到Chase有300刀的checking账户bonus，需要开checking账户并且做一次DD（direct deposit），另外BOA也有300刀，需要两次DD，每次2000刀以上。

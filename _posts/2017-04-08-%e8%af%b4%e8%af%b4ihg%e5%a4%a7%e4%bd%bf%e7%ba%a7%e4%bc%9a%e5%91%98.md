@@ -3,7 +3,7 @@ layout: post
 title: 说说IHG大使级会员
 comment: true
 key: 20170408
-tags:
+tags: IHG ideas
 ---
 
 IHG会员分两个系统，一个是IHG Rewards Club等级，包括Club、金、白金、Spire四个级别，并且适用于所有子品牌，包括Intercontinental、Crown Plaza、Holiday Inn等等。另外一个是Intercontinental品牌的独立会员系统，不适用于其他子品牌，包括大使Ambassador以及皇家大使Royal Ambassador两个级别。

@@ -3,12 +3,7 @@ layout: post
 title: 如何选择deal？哪些该跳，哪些不该？
 comment: true
 key: 20150730
-tags:
-- amex
-- Amex
-- amex offer
-- credit card
-- deal
+tags: AMEX AmexOffer CreditCard deal
 ---
 
 早上醒来看到FrequentMiler写的文章，突然很有同感。原文如下：

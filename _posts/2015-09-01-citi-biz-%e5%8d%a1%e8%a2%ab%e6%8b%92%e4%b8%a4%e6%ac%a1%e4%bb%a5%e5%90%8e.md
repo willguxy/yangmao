@@ -3,9 +3,7 @@ layout: post
 title: Citi Biz 卡被拒两次以后……
 comment: true
 key: 20150901
-tags:
-- AA
-- Citibank
+tags: AA Citibank
 ---
 
 Citi的商业卡不多，其中AA的商业卡50k算是不错的offer，消费不高，里程很好用。最好的一点是，你可以和另外一张个人卡一起申请，在同一天内合并HP。注意Citi只允许在7天之内申请1张卡，但是不包括商业卡。

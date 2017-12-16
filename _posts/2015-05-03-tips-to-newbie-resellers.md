@@ -3,8 +3,7 @@ layout: post
 title: Tips to newbie resellers
 comment: true
 key: 20150503.1
-tags:
-- miscellaneous
+tags: resell
 ---
 
 最近没怎么写博客，微博也更新的不多，实在是因为生活上的事情有点多。

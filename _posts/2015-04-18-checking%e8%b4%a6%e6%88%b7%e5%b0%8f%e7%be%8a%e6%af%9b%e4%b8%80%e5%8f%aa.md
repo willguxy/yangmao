@@ -3,9 +3,7 @@ layout: post
 title: checking账户小羊毛一只
 comment: true
 key: 20150418
-tags:
-- BOA
-- checking
+tags: BOA checking
 ---
 
 大家都知道申请信用卡可以拿开卡奖励，比如点数里程神马的，但是这些都不如cash来得爽（虽然理论上来说一般比cash价值更高）。其实checking/savings账户开户也是有奖励的，只不过跟信用卡不同的是，checking账户一般不要求消费，而要求direct deposit。很多人觉得自己是学生就没法满足这个要求了，其实不然，将来我会仔细讲解一下什么叫做ACH。

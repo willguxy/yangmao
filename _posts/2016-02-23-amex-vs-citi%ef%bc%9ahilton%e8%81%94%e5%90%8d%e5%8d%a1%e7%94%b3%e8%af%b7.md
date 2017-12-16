@@ -3,12 +3,7 @@ layout: post
 title: Amex vs Citi：Hilton联名卡申请
 comment: true
 key: 20160223
-tags:
-- amex
-- Amex
-- Citibank
-- credit card
-- hilton
+tags: AMEX Citibank CreditCard Hilton
 ---
 
 最近跟Hilton有关的信用卡新闻有些多。Hilton跟Amex和Citi都有联名卡，而且每家还有两张：*Amex Hilton HHonors 无年费

@@ -3,9 +3,7 @@ layout: post
 title: What the heck is going on with Redbird?
 comment: true
 key: 20150218
-tags:
-- credit card
-- MS
+tags: CreditCard MS
 ---
 
 注：刚刚更新了referral link。Sapphire 45k offer跟公众offer一样，只不过你用我的链接我会衷心的祝福你。discover的链接就不要用了，等150刀开卡奖吧。喜达屋也可以等等，暑假肯定有30k的。链接在此：

@@ -3,9 +3,7 @@ layout: post
 title: cash back portals and gift card purchase
 comment: true
 key: 20150420
-tags:
-- cash back
-- gift card
+tags: CashBack GiftCard
 ---
 
 这次讲一讲cash back portal和购买GC。

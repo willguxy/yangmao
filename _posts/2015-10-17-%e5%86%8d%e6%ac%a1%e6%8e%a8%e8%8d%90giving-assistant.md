@@ -3,9 +3,7 @@ layout: post
 title: 再次推荐giving assistant
 comment: true
 key: 20151017
-tags:
-- givingassistant
-- topcashback
+tags: GivingAssistant Topcashback
 ---
 
 如果您没有家人朋友的refer，欢迎使用我的链接：

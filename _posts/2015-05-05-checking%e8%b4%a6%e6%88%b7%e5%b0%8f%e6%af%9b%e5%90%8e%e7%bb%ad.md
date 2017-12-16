@@ -3,8 +3,7 @@ layout: post
 title: checking账户小毛后续
 comment: true
 key: 20150505
-tags:
-- checking
+tags: checking
 ---
 
 之前写到BOA和chase都有不错的checking账户开户奖励，每家300刀，不需要HP你的信用记录，没有消费要求，听起来不错。

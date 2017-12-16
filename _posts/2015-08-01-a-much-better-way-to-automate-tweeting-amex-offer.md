@@ -3,11 +3,7 @@ layout: post
 title: A much better way to automate tweeting Amex Offer
 comment: true
 key: 20150801
-tags:
-- amex
-- Amex
-- amex offer
-- twitter
+tags: AMEX AmexOffer twitter
 ---
 
 之前bump into一些问题，导致所有的twitter账户被suspend，无奈一个个重新注册。每24小时内，每个ip可以注册一个twitter账户而不用手机号验证。所以可以用电脑连家里wifi注册一个，连手机热点注册一个，然后iphone设置里面注册一个。另外再多的话需要出门去星巴克之类的地方，或者找个VPN啥的。

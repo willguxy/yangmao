@@ -3,9 +3,7 @@ layout: post
 title: 如何得到便宜又高端的租车享受？
 comment: true
 key: 20150508
-tags:
-- car rental
-- travel
+tags: CarRental travel
 ---
 
 **按：看了看统计这篇文章竟然常年占据阅读量的首位，由于是15年5月份写的，时隔一年半，有一些改变，也有一些是我新的体会，在此做一些订正：**

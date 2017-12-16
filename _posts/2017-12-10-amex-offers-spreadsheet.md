@@ -3,7 +3,7 @@ layout: post
 title: Amex Offer Spreadsheet
 comment: true
 key: 20171210
-tags: AMEX tool
+tags: AMEX tips
 ---
 
 分享一个自己总结的[Amex Offer列表][1]

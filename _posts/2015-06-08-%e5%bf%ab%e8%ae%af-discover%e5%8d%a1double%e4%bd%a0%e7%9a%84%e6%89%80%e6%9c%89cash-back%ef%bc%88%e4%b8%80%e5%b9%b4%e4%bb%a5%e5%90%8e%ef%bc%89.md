@@ -3,9 +3,7 @@ layout: post
 title: ［快讯］Discover卡double你的所有cash back（一年以后）
 comment: true
 key: 20150608
-tags:
-- cash back
-- Discover
+tags: CashBack Discover
 ---
 
 **对不住大家，我人在中国，不方便上墙外网，就一直没写东西**

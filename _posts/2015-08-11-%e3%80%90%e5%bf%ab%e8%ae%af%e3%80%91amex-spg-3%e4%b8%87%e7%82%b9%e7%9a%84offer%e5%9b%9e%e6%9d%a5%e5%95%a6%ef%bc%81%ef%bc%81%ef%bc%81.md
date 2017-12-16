@@ -3,10 +3,7 @@ layout: post
 title: 【快讯】Amex SPG 3万点的offer回来啦！！！
 comment: true
 key: 20150811
-tags:
-- amex
-- Amex
-- spg
+tags: AMEX SPG
 ---
 
 包括个人和商业。记住Amex允许四张自家的信用卡Credit Card，不包括签帐卡Charge Card或者第三方的Amex（比如FIA和Flexperks）。

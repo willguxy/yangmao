@@ -3,9 +3,7 @@ layout: post
 title: 年终retention offer（一）
 comment: true
 key: 20151224
-tags:
-- retention
-- retention offer
+tags: retention tips
 ---
 
 ##圣诞快乐!!! 祝各位读者有一个愉快的假期

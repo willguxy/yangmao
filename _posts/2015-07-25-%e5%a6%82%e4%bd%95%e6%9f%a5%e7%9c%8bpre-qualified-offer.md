@@ -3,9 +3,7 @@ layout: post
 title: 如何查看pre-qualified offer
 comment: true
 key: 20150725
-tags:
-- credit card
-- pre-qualified offers
+tags: CreditCard offer tips
 ---
 
 所谓pre-qualified，就是发卡行通过marketing的方法screen到了你，想拉你入伙，就给你发一些好offer，引诱你申请。一般越没什么卡的人越能得到好offer。我这种想要好offer的反而没有。

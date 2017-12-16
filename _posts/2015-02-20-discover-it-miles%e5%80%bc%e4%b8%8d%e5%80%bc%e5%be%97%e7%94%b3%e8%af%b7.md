@@ -3,8 +3,7 @@ layout: post
 title: Discover IT Miles值不值得申请
 comment: true
 key: 20150220
-tags:
-- credit card
+tags: CreditCard
 ---
 
 https://www.discover.com/credit-cards/miles/

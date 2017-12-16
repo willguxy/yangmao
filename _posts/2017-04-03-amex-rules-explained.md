@@ -3,7 +3,7 @@ layout: post
 title: 浅谈AMEX Rules
 comment: true
 key: 20170403
-tags:
+tags: AMEX ideas tips
 ---
 
 今天来总结一些关于AMEX卡申请和持卡规则，以及一些例外。

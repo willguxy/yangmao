@@ -3,8 +3,7 @@ layout: post
 title: DC樱花之行：一些羊毛建议
 comment: true
 key: 20150414
-tags:
-- travel
+tags: travel
 ---
 
 博主前一段在上课，基本非常忙。加上申请master项目，没特别关注羊毛事业。今天就说说周末去DC看樱花一行的一些收获吧。*行程

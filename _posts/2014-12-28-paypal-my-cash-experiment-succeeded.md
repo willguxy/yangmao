@@ -3,9 +3,7 @@ layout: post
 title: Paypal My Cash experiment succeeded...
 comment: true
 key: 20141228
-tags:
-- Paypal
-- Walgreens
+tags: Paypal Walgreens
 ---
 
 对绿墙里卖的香草、Paypal以及Greendot Moneypak已经垂涎很久了。我非常清楚的知道小二儿一般不会让我用CC买，但是我家附近的店里没有明确写——反正试试又不会怎样。

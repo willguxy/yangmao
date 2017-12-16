@@ -3,11 +3,7 @@ layout: post
 title: 利用GiftCardMall（Simon VGC）+Topcashback满足开卡消费
 comment: true
 key: 20150729.1
-tags:
-- credit card
-- giftcardmall
-- topcashback
-- visa gift card
+tags: CreditCard GiftCardMall Topcashback VISA GiftCard
 ---
 
 **换了新的主题，背景也改为护眼的黄色。以前的太土了**

@@ -3,9 +3,7 @@ layout: post
 title: The reload game is on——prepaid卡你不可不知的一些公司
 comment: true
 key: 20141227.4
-tags:
-- prepaid card
-- reloadable card
+tags: PrepaidCard ReloadableCard
 ---
 
 这句经典名言应该出自大神frequentmiler。

@@ -3,11 +3,7 @@ layout: post
 title: 自动推Amex Offer后续
 comment: true
 key: 20150801.1
-tags:
-- amex
-- Amex
-- amex offer
-- twitter
+tags: AMEX AmexOffer twitter
 ---
 
 之前发了一篇

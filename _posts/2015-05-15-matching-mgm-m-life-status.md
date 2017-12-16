@@ -3,9 +3,7 @@ layout: post
 title: Matching MGM M-life status
 comment: true
 key: 20150515
-tags:
-- Hyatt
-- travel
+tags: Hyatt travel
 ---
 
 最近再旅行途中，就简短写一点吧。

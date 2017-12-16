@@ -3,9 +3,7 @@ layout: post
 title: 如何max out freedom和discover的quarterly 5%返现
 comment: true
 key: 20150214.1
-tags:
-- cash back
-- credit card
+tags: CashBack CreditCard
 ---
 
 我自己没有dividend卡，所以就不细说了。据说是每年max 300 cb。所以可以指着一个季度使劲儿撸……回到正题。先看一下2015的全年calendar。上面是freedom，下面是discover。看不清点大图。

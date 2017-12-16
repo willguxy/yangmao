@@ -3,9 +3,7 @@ layout: post
 title: 东京Regus Lounge体验以及订Virgin Atlantic里程票的教训
 comment: true
 key: 20150514
-tags:
-- Award Ticket
-- travel
+tags: award travel
 ---
 
 此时此刻坐在东京的一家Regus Lounge里，因为上午和中午走的太累了就过来休息一下。突然想起明天要去京都，虽然之前决定了要坐新干线，但是考虑到新干线的票价不便宜，如果能用手里的里程订一张往返机票也不错。稍微查了一下，发现用Virgin Atlantic的里程订ANA的国内航线不错。VA到ANA是按距离算里程数的，东京到大阪只有两三百mile，而用VA订ANA在4k mile以内都是一个价格！只需要15k里程。而对应新干线往返至少两百多刀吧，所以这个价格还是不错的。只不过机场之间的交通比较麻烦。

@@ -3,7 +3,7 @@ layout: post
 title: 返利网站referral bonus
 comment: true
 key: 20160426
-tags:
+tags: referral CashBack portal
 ---
 
 最近有几个返利网站提供额外的bonus：

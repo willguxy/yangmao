@@ -3,10 +3,7 @@ layout: post
 title: 【快讯】Amex Delta Gold $100 credit instead of $50
 comment: true
 key: 20150805.1
-tags:
-- amex
-- Amex
-- delta
+tags: AMEX Delta
 ---
 
 最近申请到Amex Delta金卡 60k offer的同学运气不错，有一个extra perk。这卡本身是在delta消费50返50的，如果你在delta官网买了$50 eGC，可以resell得到大概$40，这样相当于free 40刀。如果正好可以用掉，也不错。

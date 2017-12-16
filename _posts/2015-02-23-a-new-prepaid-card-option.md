@@ -3,8 +3,7 @@ layout: post
 title: A "new" prepaid card option
 comment: true
 key: 20150223
-tags:
-- MS
+tags: MS
 ---
 
 **Per Doc of Credit, there has been a new prepaid card reloadable with credit card. This card has been talked about under the radar and just turned public during the past few days.**

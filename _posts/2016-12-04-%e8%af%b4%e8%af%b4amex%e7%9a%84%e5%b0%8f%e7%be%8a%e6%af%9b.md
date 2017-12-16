@@ -3,7 +3,7 @@ layout: post
 title: 说说Amex的小羊毛
 comment: true
 key: 20161204
-tags:
+tags: AMEX ideas tips
 ---
 
 今天简单说几个Amex的小羊毛，以及薅的思路吧，包括已经过期的和还在进行的。*AT&T bill $50 back after $150, up to 3X
