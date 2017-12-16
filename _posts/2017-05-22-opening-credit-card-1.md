@@ -1,10 +1,9 @@
 ---
 layout: post
 title: 下半年申卡计划
-#permalink: https://willguxy.wordpress.com/2017/05/22/下半年申卡计划/index.html
-post_id: 3236
-categories: 
-- Uncategorized
+comment: true
+key: 20170522
+tags: churn CreditCard
 ---
 
 回顾一下今年上半年申的卡：AMEX Hilton Surpass 80k * 2，AMEX PRG 50k * 1，AMEX EDP 30k * 1，AMEX BGR 75k * 1（第二次了），FNBO TravelElite 25k * 2，USB Altitude * 1.

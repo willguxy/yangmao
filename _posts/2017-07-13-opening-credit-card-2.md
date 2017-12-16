@@ -1,10 +1,9 @@
 ---
 layout: post
 title: 开卡计划后续
-#permalink: https://willguxy.wordpress.com/2017/07/13/开卡计划后续/index.html
-post_id: 3317
-categories: 
-- Uncategorized
+comment: true
+key: 20170713
+tags: churn CreditCard
 ---
 
 承接之前的一篇写

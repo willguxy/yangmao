@@ -1,10 +1,9 @@
 ---
 layout: post
 title: List of cards that offer referral programs
-#permalink: https://willguxy.wordpress.com/2017/07/08/list-of-cards-that-offer-referral-programs/index.html
-post_id: 3314
-categories: 
-- Uncategorized
+comment: true
+key: 20170708
+tags: referral CreditCard
 ---
 
 **AMEX (Most of their products)**

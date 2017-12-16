@@ -1,10 +1,9 @@
 ---
 layout: post
 title: 餐馆、超市和日常消费
-#permalink: https://willguxy.wordpress.com/2017/05/10/餐馆、超市和日常消费/index.html
-post_id: 3090
-categories: 
-- Uncategorized
+comment: true
+key: 20170510
+tags: CreditCard
 ---
 
 时间来到2017年，世界格局发生了翻天覆地的变化，美国信用卡界也跟以前大为不同——只不过本小博的读者应该更在乎后者吧：）除了每天盯着论坛博客微信公众号研究申请什么卡拿什么奖励以外，大家每天的消费也在积累着各种各样的cash back和积分。几天主要写写2017年还有哪些卡可以用来消费刷卡，主要参考了DOC关于

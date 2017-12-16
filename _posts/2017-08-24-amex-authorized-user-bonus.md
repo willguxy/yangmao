@@ -1,10 +1,9 @@
 ---
 layout: post
 title: AMEX加副卡消费得Bonus
-#permalink: https://willguxy.wordpress.com/2017/08/24/amex加副卡消费得bonus/index.html
-post_id: 3351
-categories: 
-- Uncategorized
+comment: true
+key: 20170824
+tags: AMEX
 ---
 
 SPG: 2,500 SPG points after $1000 spend. 
