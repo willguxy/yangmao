@@ -3,7 +3,7 @@ layout: post
 title: 【简讯】获取Chase信用卡推荐链接
 comment: true
 key: 20160323
-tags: Chase referral tips
+tags: Chase referral tip
 ---
 
 曾经给大家讲过，Chase Freedom/CSP的推荐链接可以通过查看页面源代码获取。但是这个方法最近不奏效了，因为你现在看Chase的推荐页面的源码，已经去掉了facebook和twitter的链接。

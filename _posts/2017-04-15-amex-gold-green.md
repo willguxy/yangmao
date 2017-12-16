@@ -3,7 +3,7 @@ layout: post
 title: 说说Amex的金卡和绿卡
 comment: true
 key: 20170415
-tags: AMEX CreditCard ChargeCard ideas
+tags: AMEX CreditCard ChargeCard idea
 ---
 
 这两张AMEX卡存在感不强。原因很简单：开卡奖励低或者没有，年费又不低，怎么看怎么不如PRG。具体来说，普通开卡奖励为零，通过隐身模式偶尔可以刷出来25,000 MR的奖励，两张合起来才跟一张PRG想当。同样是第一年免年费，而第二年的年费分别为$160和$95，其中AMEX Green加副卡还需要多交30刀。相比之下PRG的年费$195，但是可以通过$100报销来抵消一部分年费，相当于$95年费，5张以内副卡不收费。这些已经在

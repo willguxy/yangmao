@@ -3,7 +3,7 @@ layout: post
 title: 我常关注的几个博客
 comment: true
 key: 20150306
-tags: blogs
+tags: blog
 ---
 
 如果你喜欢积累里程、积分或者赚点小毛，那么有这么几个blog你肯定需要关注。不幸的是下列blog都是英文的，还没有发现哪个中文的blog可以更新的这么及时。

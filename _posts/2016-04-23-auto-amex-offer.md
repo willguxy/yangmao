@@ -3,7 +3,7 @@ layout: post
 title: 【geek向】自动添加Amex Offer
 comment: true
 key: 20160423
-tags: AMEX AmexOffer tips
+tags: AMEX AmexOffer tip
 ---
 
 首先，我曾经发过数篇文章来介绍和解释一个自动推amex offer的工具，基本原理就是通过twitterfeed来自动发出跟offersbot一样的内容，来为你的卡加上amex offer。目前这个工具我还在使用，而且完全hassle-free，不需要我来管理任何东西。

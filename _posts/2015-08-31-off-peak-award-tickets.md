@@ -3,7 +3,7 @@ layout: post
 title: 淡季里程换票到底值不值
 comment: true
 key: 20150831
-tags: Delta miles
+tags: Delta mile
 ---
 
 最近刚帮LD换了寒假的中美往返。她手上只有Delta的里程（还记得前一段Amex Delta金卡的两个60k offer吧），所以就在delta网站上找票了。寒假中美不算特别淡季，但跟暑假比起来还差得远。我们当时一心想要换票，就没查市场的行情。

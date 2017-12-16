@@ -3,7 +3,7 @@ layout: post
 title: 旅行省钱小攻略
 comment: true
 key: 20160518
-tags: tips ideas
+tags: tip idea
 ---
 
 最近给女朋友爸妈来美张罗行程，目的地集中在美东。最理想的情况当然是从A出发，BCDEF玩一圈，再回到A，但是因为我暑期实习的原因，只能订每个周末从纽约出发到其他地方的行程，也就是AB、AC、AD、AE……之间的往返，所以成本略有增加。

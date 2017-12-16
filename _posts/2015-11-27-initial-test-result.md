@@ -3,7 +3,7 @@ layout: post
 title: 初步测试结果
 comment: true
 key: 20151127
-tags: Chase ideas
+tags: Chase idea
 ---
 
 前几天跟大家说我在做一个测试。初步结果已经出来了，啥也不说了，直接上图。大家算一算有多少是拿了5X积分，又有多少是拿了10X积分的。

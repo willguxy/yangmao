@@ -3,7 +3,7 @@ layout: post
 title: WorldPoints dilemma：卖掉还是自己用？
 comment: true
 key: 20150226
-tags: award WorldPoints
+tags: award WorldPoint
 ---
 
 如果你手上有神卡Fidelity Amex或者BOA的World Points card，那么你可能已经攒了一些WP 积分。那这个积分怎么花掉合适呢？

@@ -3,7 +3,7 @@ layout: post
 title: Time to know what banks think of us
 comment: true
 key: 20160517
-tags: ideas
+tags: idea
 ---
 
 I came across DOC's posts of 

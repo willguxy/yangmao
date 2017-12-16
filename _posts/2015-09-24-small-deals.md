@@ -3,7 +3,7 @@ layout: post
 title: 总结一下最近拿到的小毛
 comment: true
 key: 20150924
-tags: deals ideas
+tags: deal idea
 ---
 
 **1、Citi （Retention/spending Offer）**

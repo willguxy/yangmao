@@ -3,7 +3,7 @@ layout: post
 title: 关于Amex FR的一些想法
 comment: true
 key: 20150816
-tags: AMEX CreditCard FR ideas
+tags: AMEX CreditCard FR idea
 ---
 
 FR就是所谓的Financial Review。

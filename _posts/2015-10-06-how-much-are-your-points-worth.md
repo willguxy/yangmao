@@ -3,7 +3,7 @@ layout: post
 title: 你的积分真的值钱吗？
 comment: true
 key: 20151006
-tags: ideas tips
+tags: idea tip
 ---
 
 大家在挣积分或者里程的时候经常遇到的一个问题就是：这样花钱得到积分里程到底值不值？没错，你很少能『免费』得到积分，很多时候都是以较低的价格换来的。这个不讨论cash back，因为cash就是cash，值不值大家都会算。

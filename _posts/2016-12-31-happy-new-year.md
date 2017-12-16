@@ -3,7 +3,7 @@ layout: post
 title: 新年快乐
 comment: true
 key: 20161231
-tags: ideas
+tags: idea
 ---
 
 2016年马上就要过去了，我想感谢各位读者的支持，如果没有大家的关注，我应该也不会坚持写吧。
