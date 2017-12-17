@@ -17,8 +17,8 @@ tags: CryptoCurrency referral
 
 先谈了一点关于市场和交易之后, 其实我觉得更重要的问题是: 什么是加密货币? 我的建议是在YouTube上搜索一下. 播放量比较高的视频应该解释的都不错. 除此之外, 我个人还推荐以下几个YouTube上的视频:
 - [What is Bitcoin?][SirajRaval]
-- [The future will be decentralized | Charles Hoskinson | TEDxBermuda][CharlesHoskinson]
-- [The four pillars of a decentralized society | Johann Gevers | TEDxZug][JohannGevers]
+- [The future will be decentralized - Charles Hoskinson - TEDxBermuda][CharlesHoskinson]
+- [The four pillars of a decentralized society - Johann Gevers - TEDxZug][JohannGevers]
 - [Ever wonder how Bitcoin (and other cryptocurrencies) actually work?][3blue1brown]
 
 
@@ -27,18 +27,18 @@ tags: CryptoCurrency referral
 
 当然咱们小博不是为了给大家上课, 除了上面一些简单介绍, 以及视频资料以外, 还得给大家总结一些干货, 但不构成投资/投机建议. 
 * 加密货币历史价格查询
-** [Coin Market Cap][coinmarketcap]: 包括了各种币的基本交易价格信息, 项目网站, 以及讨论区的网址
-** [Bitcoin Charts][bitcoincharts]: 看价格历史稍微麻烦点, 好处是提供了一个下载[历史数据][bitcoinchartsdata]的地方
-** 各种手机app. 我自己在用的就有blockfolio, HODL, BitScreener, CMC, CoinCap, TabTrader等等. 其中最后一个TabTrader还在发行自己的ICO. 我的建议是, 都下载下来看看哪个好用. 使用这些app的时候注意一个问题, 就是价格历史到底是以比特币计价还是换算成美元计价: 大部分加密货币的交易是对标比特币或者以太坊的, 只有少数主流币有对美元的交易盘 -- 当然你也可以把USDT这个代币理解为美元. 中国国内的交易所以前有很多对标人民币的盘, 但是由于禁令导致这些交易所都转入地下或者开辟海外市场了. 看一个币的时候是看它的美元价值历史, 还是比特币价值历史, 这是一个有趣的问题. 别忘了过去几个月里比特币一路猛涨, 很多币对比特币都是下跌的, 但是对美元则有涨有跌.
+ * [Coin Market Cap][coinmarketcap]: 包括了各种币的基本交易价格信息, 项目网站, 以及讨论区的网址
+ * [Bitcoin Charts][bitcoincharts]: 看价格历史稍微麻烦点, 好处是提供了一个下载[历史数据][bitcoinchartsdata]的地方
+ * 各种手机app. 我自己在用的就有blockfolio, HODL, BitScreener, CMC, CoinCap, TabTrader等等. 其中最后一个TabTrader还在发行自己的ICO. 我的建议是, 都下载下来看看哪个好用. 使用这些app的时候注意一个问题, 就是价格历史到底是以比特币计价还是换算成美元计价: 大部分加密货币的交易是对标比特币或者以太坊的, 只有少数主流币有对美元的交易盘 -- 当然你也可以把USDT这个代币理解为美元. 中国国内的交易所以前有很多对标人民币的盘, 但是由于禁令导致这些交易所都转入地下或者开辟海外市场了. 看一个币的时候是看它的美元价值历史, 还是比特币价值历史, 这是一个有趣的问题. 别忘了过去几个月里比特币一路猛涨, 很多币对比特币都是下跌的, 但是对美元则有涨有跌.
 * 项目内容和进展
-** 各个项目自己的网站, 从上面的Coin Market Cap上可以查到
-** YouTube上面有各种视频, 有些是官方的有些是个人录制的. 不知道里面是不是有special interest. 注意甄别和看看下面的评论
-** 另外就是项目的github页面了. 很多需要挖矿的项目都是开源的, 比如[BTC git repo][bitcoingithub]. 但是需要很强的编程背景和对区块链的理解. 一些代币之类的可能并没有实际的代码
-** twitter等社交媒体更新. 从twitter上搜索即可. 注意twitter支持加密货币的特殊符号用于查询, 比如比特币就是$btc, 以太坊就是$eth等等
+ * 各个项目自己的网站, 从上面的Coin Market Cap上可以查到
+ * YouTube上面有各种视频, 有些是官方的有些是个人录制的. 不知道里面是不是有special interest. 注意甄别和看看下面的评论
+ * 另外就是项目的github页面了. 很多需要挖矿的项目都是开源的, 比如[BTC git repo][bitcoingithub]. 但是需要很强的编程背景和对区块链的理解. 一些代币之类的可能并没有实际的代码
+ * twitter等社交媒体更新. 从twitter上搜索即可. 注意twitter支持加密货币的特殊符号用于查询, 比如比特币就是$btc, 以太坊就是$eth等等
 * 分析评论
-** 我自己看的一个网站叫medium. 里面有各种人的文章, 有些写的很好. 注册之后可以选择兴趣点. 选cryptocurrency之后, 可以添加热门博主到自己的关注列表里. 手机也可以下载app, 随时阅读. 有个付费服务我暂时还没有使用, 如果有什么特别好的文章只能付费观看的话我以后会再给大家推荐
-** 微信公众号: 具体的我就不推荐了, 大致看法是鱼龙混杂, 但是中文的毕竟方便. 最近一年多有太多人进入到这个圈子里. 大家擦亮双眼, 收费小密圈什么的都不太靠谱.
-** 微博: 跟微信一样, 大家要明白一件事, 要是谁自称大神, 一定是假的 -- 这么神的人为啥不自己先把钱赚了.
+ * 我自己看的一个网站叫medium. 里面有各种人的文章, 有些写的很好. 注册之后可以选择兴趣点. 选cryptocurrency之后, 可以添加热门博主到自己的关注列表里. 手机也可以下载app, 随时阅读. 有个付费服务我暂时还没有使用, 如果有什么特别好的文章只能付费观看的话我以后会再给大家推荐
+ * 微信公众号: 具体的我就不推荐了, 大致看法是鱼龙混杂, 但是中文的毕竟方便. 最近一年多有太多人进入到这个圈子里. 大家擦亮双眼, 收费小密圈什么的都不太靠谱.
+ * 微博: 跟微信一样, 大家要明白一件事, 要是谁自称大神, 一定是假的 -- 这么神的人为啥不自己先把钱赚了.
 
 
 看了这么多, 如果还是觉得投资/投机一点点的话, 一定要看看自己的资产, 有多少是可以冒很大风险的. 毕竟一旦有危机, 很有可能血本无归. 即使是主流币, 一段时间都可能很难再回到跌之前的高位. 至于哪里可以得到加密货币, 最方便的就是在交易所建立账户, 然后购买了. 有几家比较大的交易所, 我做个简单介绍
