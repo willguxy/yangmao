@@ -22,20 +22,24 @@ tags: tip idea
 ## 具体说明
 ### incidental charge
 所谓的incidental是指以下的消费：
+
 * airline lounge day pass
 * yearly lounge membership
 * airline seat upgrades
 * airline baggage fees
 * in-flight Internet/entertainment
 * in-flight meals
+
 实际操作中，发现因为charge code的问题，以下的消费也可能被算作incidental。
 * some airline gift card
 * surcharge for award tickets
+
 报销成功并不代表银行认可，更何况条款当中明确写了机票和礼品卡不算作incidental。
 
 
 ### travel credit
 跟上面的incidental charge不同，travel credit是实打实的『白给』。这里面最好的当然是
+
 * Chase Sapphire Reserve（CSR）: 只要是travel category就行。店机票、火车汽车、公共交通高速收费、加油等等都给报销。
 * US Bank Altitude Reserve略逊于CSR：
     * airlines
@@ -45,11 +49,13 @@ tags: tip idea
     * passenger trains
     * cruise lines
 * Citi Prestige: 也不错，网站写的是air travel credit，至少机票是算的。
+
 总的来说包含了机票，报销就容易很多。哪怕帮家人朋友订一下票，分分钟赚回来。
 
 
 ### 报销方式
 一般的卡都是自动报销的，即产生消费的一段时间以后会自动出现在账单上。老王今天花了$24.63用于飞机上买吃的，过几天就在账单上出现-$24.63，条目一般是annual credit之类的。具体的规则如下：
+
 * AMEX/Chase/FNBO等: 到账及时，一般2-5天内会到账。对于incidental来说，如果没有到账，很可能说明消费没有被算作incidental。自己看看条款，如果确认符合，可以跟客服要求手动加上。如果不符合，要求了也没用
 * Citi Prestige：出账单以后显示
 * CHase Ritz Carlton：需要4个账单期以内打电话跟客服要求。这种情况下买gift card很可能会被拒绝。但是YMMV。也有很多人打电话都报销了gift card。
@@ -57,10 +63,13 @@ tags: tip idea
 
 ### 日期计算
 一般分两种
+
 * cardmember year：是指从开卡日期开始算起，每12个billing cycle有一次报销的机会
 * calendar year：跟开卡日期无关，只跟日历上的1月1日到12月31日为准，每个自然年一次报销
     * AMEX：完全按照自然年，消费日在哪一年就算哪一年的报销额度
-    * Chase：按照billing cycle close的那一天所在的自然年计算。注意Chase Sapphire Reserve曾经也是按照自然年计算的，但是2017年5月以后的新卡都改成了cardmember year。这之前申请的人暂时继续保持calendar year。以我的卡为例，2016年底开的，在2016年和2017年各有300报销额度。现在到了年底，这个账单的close日期是在2018年，所以网站上已经显示了下一年的报销额度。
+    * Chase：按照billing cycle close的那一天所在的自然年计算。
+    
+注意Chase Sapphire Reserve曾经也是按照自然年计算的，但是2017年5月以后的新卡都改成了cardmember year。这之前申请的人暂时继续保持calendar year。以我的卡为例，2016年底开的，在2016年和2017年各有300报销额度。现在到了年底，这个账单的close日期是在2018年，所以网站上已经显示了下一年的报销额度。
 
 
 ### 哪里查询
@@ -78,10 +87,10 @@ tags: tip idea
 
 
 最后做个小调查：大家都持有几张高端信用卡呢？我自己有如下几张：
-- AMEX Platinum
-- AMEX Platinum Mercedez Benz
-- Chase Sapphire Reserve
-- Citi Prestige
+* AMEX Platinum
+* AMEX Platinum Mercedez Benz
+* Chase Sapphire Reserve
+* Citi Prestige
 
 
 
