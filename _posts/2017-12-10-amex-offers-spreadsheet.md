@@ -14,6 +14,6 @@ tags: AMEX tip
 
 
 
-[1]: https://goo.gl/ePpcVj
+[1]: https://docs.google.com/spreadsheets/d/1_pCR7_3_TxtLD6rx-VYlE5VuIM6N1-IM3oe-j0qTkOE/edit?usp=sharing
 [2]: https://www.github.com/willguxy/autoamex
 
