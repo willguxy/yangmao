@@ -40,7 +40,7 @@ tags: tip idea
 ### travel credit
 跟上面的incidental charge不同，travel credit是实打实的『白给』。这里面最好的当然是
 
-* Chase Sapphire Reserve（CSR）: 只要是travel category就行。店机票、火车汽车、公共交通高速收费、加油等等都给报销。
+* Chase Sapphire Reserve（CSR）: 只要是travel category就行。店机票、火车汽车、公共交通高速收费、~~加油~~（按：加油不算，详见[Chase FAQ][chasefaq]）等等都给报销。
 * US Bank Altitude Reserve略逊于CSR：
     * airlines
     * hotels
@@ -92,7 +92,7 @@ tags: tip idea
 * Chase Sapphire Reserve
 * Citi Prestige
 
-
+[chasefaq]: https://www.chase.com/index.jsp?pg_name=ccpmapp/shared/assets/page/Online_Rewards_FAQ
 
 
 
