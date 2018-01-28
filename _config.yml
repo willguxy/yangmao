@@ -11,6 +11,7 @@
 #    |  |  \   --. /  .'.  \  |  |
 #    `--'   `----''--'   '--' `--'
 
+text_color_theme: chocolate
 ## Base settings ##
 url: http://yangmao.life #!the base hostname & protocol for your site e.g. https://www.someone.com (!!required!!)
 baseurl: /
