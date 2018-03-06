@@ -76,10 +76,10 @@ leancloud:
   app_key: blUaq8czTifyTetatjXIloin #LeanCloud App key
   app_class: counter #LeanCloud App class
 
-mathjax: true
-mathjax_autoNumber: true
-mermaid: true
-chart: true
+#mathjax: true
+#mathjax_autoNumber: true
+#mermaid: true
+#chart: true
 
 ## Paginate ##
 paginate: 10
