@@ -33,6 +33,12 @@ nav_lists:
       zh-Hant: 關於
     url: /about.html
 
+paths:
+  base: /
+  home: https://github.com/willguxy/yangmao/
+  # all:  /all.html
+  # rss:  /feed.xml
+
 ## GitHub repository (if the site is hosted by GitHub) ##
 repository: willguxy/yangmao
 repository_tree: gh-pages
@@ -70,7 +76,10 @@ leancloud:
   app_key: blUaq8czTifyTetatjXIloin #LeanCloud App key
   app_class: counter #LeanCloud App class
 
-# mathjax: true
+mathjax: true
+mathjax_autoNumber: true
+mermaid: true
+chart: true
 
 ## Paginate ##
 paginate: 10
@@ -78,7 +87,7 @@ paginate_path: /blog/page:num
 
 ## Post excerpts ##
 excerpt_separator: <!--more-->
-excerpt_type: text ## text | html
+excerpt_type: html ## text | html
 
 ## Build ##
 markdown: kramdown
@@ -86,12 +95,10 @@ highlighter: rouge
 permalink: date
 
 exclude:
+  - Makefile
+  - Gemfile
   - README.md
-  - LICENSE
-  - /vendor
-  - /docs
-  - /screenshots
-  - /test
+  - gulpfile.js
 
 ## Plugins ##
 plugins:
@@ -102,6 +109,3 @@ plugins:
 
 ## Server ##
 server_url: "0.0.0.0"
-
-## Development ##
-isdebug: false
