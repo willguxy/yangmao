@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 如何得到便宜又高端的租车享受？
 comment: true
 key: 20150508

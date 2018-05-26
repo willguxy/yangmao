@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 【新年快讯】一些小更新
 comment: true
 key: 20160126

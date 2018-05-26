@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 我常关注的几个博客
 comment: true
 key: 20150306

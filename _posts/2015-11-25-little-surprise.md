@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 测试一个意外的小发现
 comment: true
 key: 20151125

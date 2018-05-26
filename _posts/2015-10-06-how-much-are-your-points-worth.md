@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 你的积分真的值钱吗？
 comment: true
 key: 20151006

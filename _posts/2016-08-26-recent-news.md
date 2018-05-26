@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 一些近况
 comment: true
 key: 20160826

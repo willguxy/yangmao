@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: AMEX Delta最新开卡+推荐奖励活动
 comment: true
 key: 20171019

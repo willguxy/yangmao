@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 关于Combine HP的一些最新结论
 comment: true
 key: 20150913

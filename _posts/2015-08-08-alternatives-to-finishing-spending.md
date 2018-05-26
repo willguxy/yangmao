@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 满足开卡消费的另类策略
 comment: true
 key: 20150808

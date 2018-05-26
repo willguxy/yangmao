@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 简单谈谈撸羊毛的心态问题
 comment: true
 key: 20150905

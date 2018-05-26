@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Amex金卡+MPX组合
 comment: true
 key: 20150805

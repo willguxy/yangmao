@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 【Discover】双倍返现的最新消息
 comment: true
 key: 20150909

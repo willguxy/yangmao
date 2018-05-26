@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 如何避免制造消费导致的关卡
 comment: true
 key: 20150302.1

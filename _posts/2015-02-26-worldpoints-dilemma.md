@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: WorldPoints dilemma：卖掉还是自己用？
 comment: true
 key: 20150226

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 关注最新一期IHG的points break
 comment: true
 key: 20150724

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: cash back portals and gift card purchase
 comment: true
 key: 20150420

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: dunkin donuts小deal
 comment: true
 key: 20171212

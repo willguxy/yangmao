@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Time to know what banks think of us
 comment: true
 key: 20160517

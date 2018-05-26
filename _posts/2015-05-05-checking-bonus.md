@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: checking账户小毛后续
 comment: true
 key: 20150505

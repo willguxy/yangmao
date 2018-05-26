@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Matching MGM M-life status
 comment: true
 key: 20150515

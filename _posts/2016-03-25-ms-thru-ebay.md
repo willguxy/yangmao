@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 通过eBay完成开卡消费
 comment: true
 key: 20160325

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 说说几张适合长期持有的年费卡
 comment: true
 key: 20150212

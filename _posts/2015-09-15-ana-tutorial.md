@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: ANA里程兑换简单版教程
 comment: true
 key: 20150915

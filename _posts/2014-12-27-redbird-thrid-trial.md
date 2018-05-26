@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 红鸟第三弹
 comment: true
 key: 20141227.1

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Daily post digest (01/26/15)
 comment: true
 key: 20150127

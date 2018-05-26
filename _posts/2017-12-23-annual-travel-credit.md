@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 高端信用卡年度旅行基金
 comment: true
 key: 20171223

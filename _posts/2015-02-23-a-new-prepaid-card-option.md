@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: A "new" prepaid card option
 comment: true
 key: 20150223

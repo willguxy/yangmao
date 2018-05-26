@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: The reload game is on——prepaid卡你不可不知的一些公司
 comment: true
 key: 20141227.4

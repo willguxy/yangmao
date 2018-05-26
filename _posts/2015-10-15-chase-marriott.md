@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 说一下万豪这张卡
 comment: true
 key: 20151015

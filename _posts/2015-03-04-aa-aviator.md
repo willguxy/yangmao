@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 巴克莱AA Aviator信用卡的种种
 comment: true
 key: 20150304

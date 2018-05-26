@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 说说Amex的金卡和绿卡
 comment: true
 key: 20170415

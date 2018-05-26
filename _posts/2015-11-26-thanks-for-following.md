@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 【感恩节】感谢读者长期以来的支持
 comment: true
 key: 20151126

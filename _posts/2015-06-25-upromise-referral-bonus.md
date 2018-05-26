@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 【20刀小毛】Upromise新用户bonus，需要refer
 comment: true
 key: 20150625

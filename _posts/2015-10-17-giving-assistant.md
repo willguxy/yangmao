@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 再次推荐giving assistant
 comment: true
 key: 20151017

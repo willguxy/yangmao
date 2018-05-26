@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: AutoTweet小改动
 comment: true
 key: 20151117

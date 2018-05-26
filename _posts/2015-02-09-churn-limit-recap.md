@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 短时间内可以申请多少张卡——recap
 comment: true
 key: 20150209

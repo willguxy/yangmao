@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 如何克制买Paypal MyCash的冲动
 comment: true
 key: 20160409

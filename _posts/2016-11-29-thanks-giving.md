@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 感恩节后记
 comment: true
 key: 20161129

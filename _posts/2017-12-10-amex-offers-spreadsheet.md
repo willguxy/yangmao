@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Amex Offer Spreadsheet
 comment: true
 key: 20171210

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 下半年申卡计划
 comment: true
 key: 20170522

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 年终retention offer（一）
 comment: true
 key: 20151224

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 近期一些小update
 comment: true
 key: 20151101

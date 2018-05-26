@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Chase最后的疯狂
 comment: true
 key: 20160227

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 浅谈AMEX Rules
 comment: true
 key: 20170403

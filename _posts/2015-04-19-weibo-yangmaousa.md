@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 欢迎关注我的微博
 comment: true
 key: 20150419

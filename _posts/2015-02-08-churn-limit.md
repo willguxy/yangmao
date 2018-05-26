@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 短时间内到底可以申请多少张信用卡？
 comment: true
 key: 20150208

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 自动推Amex Offer后续
 comment: true
 key: 20150801.1

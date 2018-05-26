@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: A much better way to automate tweeting Amex Offer
 comment: true
 key: 20150801

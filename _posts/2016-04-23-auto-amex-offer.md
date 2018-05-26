@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 【geek向】自动添加Amex Offer
 comment: true
 key: 20160423

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 旅行省钱小攻略
 comment: true
 key: 20160518

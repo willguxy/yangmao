@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 关于Amex FR的一些想法
 comment: true
 key: 20150816

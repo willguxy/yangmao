@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 总结一下最近拿到的小毛
 comment: true
 key: 20150924

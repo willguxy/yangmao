@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 加州七天游“不花钱”：第一篇——订票
 comment: true
 key: 20150814.1

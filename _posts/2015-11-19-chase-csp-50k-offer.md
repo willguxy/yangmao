@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Chase蓝宝石卡限时50k offer
 comment: true
 key: 20151119

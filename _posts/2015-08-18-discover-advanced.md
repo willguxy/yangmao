@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Discover玩法介绍：入门到进阶
 comment: true
 key: 20150818

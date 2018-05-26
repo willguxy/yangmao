@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 说说IHG大使级会员
 comment: true
 key: 20170408

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 几个好用的后门电话
 comment: true
 key: 20150123.1

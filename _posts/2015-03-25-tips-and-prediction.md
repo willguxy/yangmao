@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 一些建议和预测
 comment: true
 key: 20150325

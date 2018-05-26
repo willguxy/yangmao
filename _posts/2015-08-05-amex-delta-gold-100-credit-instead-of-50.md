@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 【快讯】Amex Delta Gold $100 credit instead of $50
 comment: true
 key: 20150805.1

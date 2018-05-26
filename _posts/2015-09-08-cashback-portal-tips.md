@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 使用返利网站的一个小tip
 comment: true
 key: 20150908

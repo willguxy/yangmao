@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: National租车经历
 comment: true
 key: 20160202

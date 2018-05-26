@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 【秘籍】自动推Amex offer
 comment: true
 key: 20150729

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 你不知道的返利网站
 comment: true
 key: 20151105

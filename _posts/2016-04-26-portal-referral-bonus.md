@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 返利网站referral bonus
 comment: true
 key: 20160426

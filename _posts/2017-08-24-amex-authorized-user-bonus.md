@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: AMEX加副卡消费得Bonus
 comment: true
 key: 20170824

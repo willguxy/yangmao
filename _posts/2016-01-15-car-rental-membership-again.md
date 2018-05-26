@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 再谈租车会员
 comment: true
 key: 20160115

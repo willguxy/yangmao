@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 西联汇款活动：送20刀Amazon GC
 comment: true
 key: 20151219

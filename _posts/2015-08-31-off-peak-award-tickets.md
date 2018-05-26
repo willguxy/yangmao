@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 淡季里程换票到底值不值
 comment: true
 key: 20150831

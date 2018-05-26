@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Discover IT Miles值不值得申请
 comment: true
 key: 20150220

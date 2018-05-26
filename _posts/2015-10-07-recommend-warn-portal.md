@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 推荐一个portal，提醒一个portal
 comment: true
 key: 20151007

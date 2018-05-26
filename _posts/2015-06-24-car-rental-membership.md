@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 温情回归+租车status后续
 comment: true
 key: 20150624

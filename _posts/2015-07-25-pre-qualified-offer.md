@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 如何查看pre-qualified offer
 comment: true
 key: 20150725

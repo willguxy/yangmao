@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 【16年7月】最新返利网站总结
 comment: true
 key: 20160709

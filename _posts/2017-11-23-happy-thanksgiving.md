@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Happy Thanksgiving
 comment: true
 key: 20171123

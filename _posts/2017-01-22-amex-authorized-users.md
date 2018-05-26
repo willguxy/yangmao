@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Amex副卡漫谈
 comment: true
 key: 20170122

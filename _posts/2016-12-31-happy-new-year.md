@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 新年快乐
 comment: true
 key: 20161231

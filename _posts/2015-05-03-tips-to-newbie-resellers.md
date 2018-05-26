@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Tips to newbie resellers
 comment: true
 key: 20150503.1

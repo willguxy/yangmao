@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 选择信用卡的一些建议
 comment: true
 key: 20150312

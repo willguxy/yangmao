@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Checking羊毛后续
 comment: true
 key: 20150707

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: AutoTweet最终形态
 comment: true
 key: 20150814

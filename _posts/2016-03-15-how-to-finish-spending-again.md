@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 再谈如何完成开卡消费
 comment: true
 key: 20160315

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Citi Sears Mastercard
 comment: true
 key: 20171015

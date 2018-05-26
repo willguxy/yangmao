@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 小试牛刀之红鸟
 comment: true
 key: 20141224.1

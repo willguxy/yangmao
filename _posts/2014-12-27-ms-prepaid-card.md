@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: MS用Prepaid卡的选择
 comment: true
 key: 20141227.2

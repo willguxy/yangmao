@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 餐馆、超市和日常消费
 comment: true
 key: 20170510

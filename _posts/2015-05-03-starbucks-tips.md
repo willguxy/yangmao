@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 星巴克全攻略
 comment: true
 key: 20150503

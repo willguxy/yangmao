@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: List of cards that offer referral programs
 comment: true
 key: 20170708

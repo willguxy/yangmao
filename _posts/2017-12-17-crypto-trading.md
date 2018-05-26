@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 加密货币探讨
 comment: true
 key: 20171217

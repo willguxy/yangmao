@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: What the heck is going on with Redbird?
 comment: true
 key: 20150218

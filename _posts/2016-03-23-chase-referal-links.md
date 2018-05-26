@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 【简讯】获取Chase信用卡推荐链接
 comment: true
 key: 20160323

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 如何max out freedom和discover的quarterly 5%返现
 comment: true
 key: 20150214.1

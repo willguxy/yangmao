@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: AMEX Biz卡申请小总结
 comment: true
 key: 20141223

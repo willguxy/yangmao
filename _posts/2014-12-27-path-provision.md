@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 2014年大方向总结
 comment: true
 key: 20141227

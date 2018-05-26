@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 事实再次证明撸的不要太猛
 comment: true
 key: 20141224

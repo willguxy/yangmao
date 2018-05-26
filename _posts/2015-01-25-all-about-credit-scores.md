@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 信用分数相关
 comment: true
 key: 20150125.1

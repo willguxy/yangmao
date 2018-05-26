@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 个性化信用卡咨询服务
 comment: true
 key: 20160310

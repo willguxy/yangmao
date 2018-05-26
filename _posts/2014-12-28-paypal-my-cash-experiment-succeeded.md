@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Paypal My Cash experiment succeeded...
 comment: true
 key: 20141228

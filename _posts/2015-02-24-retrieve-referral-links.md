@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 怎么弄开卡链接
 comment: true
 key: 20150224

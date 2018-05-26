@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Amex新政策
 comment: true
 key: 20150123

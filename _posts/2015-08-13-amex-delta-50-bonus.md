@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 澄清一下Amex Delta金卡的开卡50刀奖励
 comment: true
 key: 20150813

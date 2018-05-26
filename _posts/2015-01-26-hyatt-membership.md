@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 凯越金护照开箱
 comment: true
 key: 20150126

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 累计里程新方式
 comment: true
 key: 20151127.1

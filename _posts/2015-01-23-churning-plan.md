@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 我的15年撸毛计划
 comment: true
 key: 20150123.2

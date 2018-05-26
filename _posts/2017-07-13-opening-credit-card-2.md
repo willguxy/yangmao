@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 开卡计划后续
 comment: true
 key: 20170713

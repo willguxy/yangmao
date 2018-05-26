@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 【Discover+Apple Pay】答疑解惑
 comment: true
 key: 20150914
