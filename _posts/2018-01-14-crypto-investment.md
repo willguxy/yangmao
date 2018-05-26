@@ -4,6 +4,7 @@ title: 加密货币投资
 comment: true
 key: 20180114
 tags: CryptoCurrency idea tip
+toc: true
 ---
 
 ## 想法
