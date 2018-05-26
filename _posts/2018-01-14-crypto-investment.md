@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 加密货币投资
 comment: true
 key: 20180114
