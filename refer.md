@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 titles:
   en: Refer
   zh: 推荐
