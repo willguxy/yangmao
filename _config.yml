@@ -77,7 +77,7 @@ nav_lists:
 ##############################
 ## excerpt
 excerpt_separator: <!--more-->
-excerpt_type: html # text (default), html
+excerpt_type: text # text (default), html
 
 ## TOC
 toc:
