@@ -50,27 +50,27 @@ repository: willguxy/yangmao
 repository_tree: master
 
 
-## => Navigation
+## => Paths
 ##############################
-#paths:
-#  base: /
+paths:
+  base: /
 #  home: https://github.com/willguxy/willguxy.github.io/
 #  all:  /archive.html
 #  rss:  /feed.xml
 
-nav_lists:
-  - titles:
-      en:      Refer
-      zh:      推荐
-      zh-Hans: 推荐
-      zh-Hant: 推薦
-    url: /refer.html
-  - titles:
-      en:      About
-      zh:      关于
-      zh-Hans: 关于
-      zh-Hant: 關於
-    url: /about.html
+#nav_lists:
+#  - titles:
+#      en:      Refer
+#      zh:      推荐
+#      zh-Hans: 推荐
+#      zh-Hant: 推薦
+#    url: /refer.html
+#  - titles:
+#      en:      About
+#      zh:      关于
+#      zh-Hans: 关于
+#      zh-Hant: 關於
+#    url: /about.html
 
 
 ## => Post
@@ -167,7 +167,7 @@ exclude:
 defaults:
   - scope:
       path: ""
-      type: "posts"
+      type: posts
     values:
       license: true
       aside:
