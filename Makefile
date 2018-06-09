@@ -6,5 +6,6 @@ sync:
 	rsync -avP $(DIR)/_layouts/ _layouts/ && \
 	rsync -avP $(DIR)/_sass/ _sass/ && \
 	rsync -avP $(DIR)/assets/ assets/ && \
-	rsync -avP $(DIR)/tools/ tools/
+	rsync -avP $(DIR)/tools/ tools/ && \
+	git checkout -- _data/navigation.yml
 
